@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Data/Textures/TriangleCells.jpg</file>
+    </qresource>
+</RCC>
